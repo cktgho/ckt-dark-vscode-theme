@@ -1,0 +1,30 @@
+{
+	"publisher": "ckt",
+	"name": "ckt-dark",
+	"displayName": "CKT Dark",
+	"description": "Dark theme with clear contrast.",
+	"version": "1.0.2",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cktgho/ckt-dark-vscode-theme.git"
+	},
+	"engines": {
+		"vscode": "^1.96.0"
+	},
+	"icon": "./res/icon.png",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "CKT Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ckt-dark-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"size": 17613
+	}
+}

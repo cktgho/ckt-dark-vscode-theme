@@ -102,7 +102,7 @@
 		"editor.lineHighlightBackground": "#ffffff08",
 		"editor.lineHighlightBorder": "#00000000",
 		"editorLineNumber.activeForeground": "#CECECEFF",
-		"editorLink.activeForeground": "#7FFF7F",
+		"editorLink.activeForeground": "#8F8FFF",
 		"editorIndentGuide.background1": "#3E3E3EFF",
 		"editorIndentGuide.activeBackground1": "#8E8E8EFF",
 		"editorRuler.foreground": "#3E3E3EFF",

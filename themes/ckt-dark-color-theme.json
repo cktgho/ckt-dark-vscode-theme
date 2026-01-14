@@ -80,7 +80,7 @@
 		"editor.foreground": "#CECECEFF",
 		"editorLineNumber.foreground": "#8E8E8EFF",
 		"editorCursor.foreground": "#EEEEEEFF",
-		"editorCursor.background": "#EEEEEEFF",
+		"editorCursor.background": "#3F3F3FFF",
 		"editor.selectionBackground": "#EEEEEE2F",
 		"editor.inactiveSelectionBackground": "#EEEEEE1F",
 		"editorWhitespace.foreground": "#EEEEEE1F",

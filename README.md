@@ -49,36 +49,36 @@ Dark theme with clear contrast.
 
 
 #### Code
-| Color     | Code    | ANSI Color | Token             |
-|-----------|---------|------------|-------------------|
-| Red 3     | #FF9F9F | B. Red     | Error             |
-| Red 2     | #FF6F6F | -          | -                 |
-| Red 1     | #EF4F4F | Red        | -                 |
-| Orange 3  | #EFAF5F | -          | Primitive Literal |
-| Orange 2  | #EF7F4F | -          | -                 |
-| Orange 1  | #DF5F1F | -          | -                 |
-| Yellow 3  | #CFBF4F | B. Yellow  | Type              |
-| Yellow 2  | #BF9F2F | -          | -                 |
-| Yellow 1  | #AF7F1F | Yellow     | -                 |
-| Green 3   | #5FCF5F | B. Green   | Parameter         |
-| Green 2   | #4FAF4F | -          | -                 |
-| Green 1   | #3F8F3F | Green      | -                 |
-| Cyan 3    | #4FCFCF | B. Cyan    | Property/Field    |
-| Cyan 2    | #3FAFAF | -          | -                 |
-| Cyan 1    | #2F8F8F | Cyan       | -                 |
-| Blue 3    | #6FBFFF | B. Blue    | Function          |
-| Blue 2    | #4F9FFF | -          | -                 |
-| Blue 1    | #2F7FFF | Blue       | -                 |
-| Violet 3  | #AFAFFF | -          | Meta              |
-| Violet 2  | #8F8FFF | -          | (TODO/Link)       |
-| Violet 1  | #6F6FFF | -          | (Meta Background) |
-| Magenta 3 | #FF8FFF | B. Magenta | Keyword           |
-| Magenta 2 | #EF6FEF | -          | -                 |
-| Magenta 1 | #CF4FCF | Magenta    | -                 |
-| White 2   | #EFEFEF | B. White   | -                 |
-| White 1   | #CFCFCF | White      | Default           |
-| Black 2   | #8F8F8F | B. Black   | Comment           |
-| Black 1   | #3F3F3F | Black      | -                 |
+| Color     | Code    | ANSI Color | Token                |
+|-----------|---------|------------|----------------------|
+| Red 3     | #FF9F9F | B. Red     | Error                |
+| Red 2     | #FF6F6F | -          | -                    |
+| Red 1     | #EF4F4F | Red        | -                    |
+| Orange 3  | #EFAF5F | -          | Primitive Literal    |
+| Orange 2  | #EF7F4F | -          | -                    |
+| Orange 1  | #DF5F1F | -          | -                    |
+| Yellow 3  | #CFBF4F | B. Yellow  | Type                 |
+| Yellow 2  | #BF9F2F | -          | -                    |
+| Yellow 1  | #AF7F1F | Yellow     | -                    |
+| Green 3   | #5FCF5F | B. Green   | Parameter            |
+| Green 2   | #4FAF4F | -          | -                    |
+| Green 1   | #3F8F3F | Green      | -                    |
+| Cyan 3    | #4FCFCF | B. Cyan    | Property/Field       |
+| Cyan 2    | #3FAFAF | -          | -                    |
+| Cyan 1    | #2F8F8F | Cyan       | -                    |
+| Blue 3    | #6FBFFF | B. Blue    | Function             |
+| Blue 2    | #4F9FFF | -          | -                    |
+| Blue 1    | #2F7FFF | Blue       | -                    |
+| Violet 3  | #AFAFFF | -          | Special              |
+| Violet 2  | #8F8FFF | -          | (TODO/Link)          |
+| Violet 1  | #6F6FFF | -          | (Special Background) |
+| Magenta 3 | #FF8FFF | B. Magenta | Keyword              |
+| Magenta 2 | #EF6FEF | -          | -                    |
+| Magenta 1 | #CF4FCF | Magenta    | -                    |
+| White 2   | #EFEFEF | B. White   | -                    |
+| White 1   | #CFCFCF | White      | Default              |
+| Black 2   | #8F8F8F | B. Black   | Comment              |
+| Black 1   | #3F3F3F | Black      | -                    |
 
 #### Rainbow Shade (Reordered Above)
 | Code 1    | Code 2    | Code 3    |

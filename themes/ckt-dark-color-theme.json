@@ -284,7 +284,8 @@
 				"### powershell",
 				"variable.other.readwrite.powershell",
 				"### python",
-				"constant.character.format.placeholder.other.python"
+				"constant.character.format.placeholder.other.python",
+				"meta.function-call.arguments.python"
 			],
 			"settings": {
 				"foreground": "#CFCFCF",
@@ -352,7 +353,7 @@
 				"entity.name.function",
 				"support.function",
 				"variable.other.member",
-				"meta.member.access"
+				"meta.function-call",
 			],
 			"settings": {
 				"foreground": "#6FBFFF",
@@ -400,6 +401,8 @@
 				"### kotlin",
 				"#### annotation's named parameter",
 				"meta.declaration.annotation.kotlin constant.other.key.kotlin",
+				"### python",
+				"variable.parameter.function.language.python"
 			],
 			"settings": {
 				"foreground": "#5FCF5F",
@@ -418,9 +421,8 @@
 				"meta.group.simple.subexpression.powershell storage.type.powershell",
 				"meta.scriptblock.powershell storage.type.powershell",
 				"### python",
-				"meta.function.parameters.python",
-				"meta.item-access.arguments.python",
-				"meta.function-call.arguments.python"
+				"meta.attribute.python",
+				"meta.item-access.arguments.python"
 			],
 			"settings": {
 				"foreground": "#CFBF4F",

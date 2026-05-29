@@ -272,6 +272,57 @@
 		"https://macromates.com/manual/en/language_grammars",
 		"https://www.sublimetext.com/docs/scope_naming.html"
 	],
+	"semanticTokenColors": {
+		"*.static": {
+			"fontStyle": "bold"
+		},
+		"*.readonly": {
+			"fontStyle": "underline"
+		},
+		"*.abstract": {
+			"fontStyle": "italic"
+		},
+		"variable": "#CFCFCF",
+		"operator": "#CFCFCF",
+		"comment": "#8F8F8F",
+		"*.deprecated": "#FF9F9F",
+		"keyword": "#FF8FFF",
+		"modifier": "#FF8FFF",
+		"label": "#AFAFFF",
+		"decorator": "#AFAFFF",
+		"*.documentation": "#AFAFFF",
+		"macro": "#AFAFFF",
+		"function": "#6FBFFF",
+		"method": "#6FBFFF",
+		"*.async": {
+			"foreground": "#6FBFFF",
+			"fontStyle": "italic"
+		},
+		"property": "#4FCFCF",
+		"event": "#4FCFCF",
+		"enumMember": {
+			"foreground": "#4FCFCF",
+			"fontStyle": "bold underline"
+		},
+		"parameter": "#5FCF5F",
+		"type": "#CFBF4F",
+		"class": "#CFBF4F",
+		"interface": {
+			"foreground": "#CFBF4F",
+			"fontStyle": "italic"
+		},
+		"enum": "#CFBF4F",
+		"struct": "#CFBF4F",
+		"namespace": "#CFBF4F",
+		"typeParameter": "#CFBF4F",
+		"string": "#EFAF5F",
+		"number": "#EFAF5F",
+		"regexp": "#EFAF5F",
+		"builtinConstant": {
+			"foreground": "#EFAF5F",
+			"fontStyle": "bold"
+		}
+	},
 	"tokenColors": [
 		{
 			"name": "Default",
